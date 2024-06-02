@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Abdelrahman Nasser, a software engineer dedicated to hard work and learning new things to help my team succeed. With strong problem-solving skills and an analytical view, I can break down any problem to its core to make it easy for designing and implementing a solution for it. I am Adaptable and ready to shift my preferences to advance my career. I consider my code to be cleaner than new cloth, smooth like marble, and efficient like Nikola Jokic 💪🏽
+I'm Abdelrahman Nasser, a software engineer dedicated to hard work and learning new things to help my team succeed. With strong problem-solving skills and an analytical view, I can break down any problem to its core to make it easy for designing and implementing a solution for it. I am Adaptable and ready to shift my preferences to advance my career.
 
 ### Hobbies
 
+💻 Tech enthusiast<br />
 🏀 NBA fanatic 🏀<br />
 ♚♝ Chess player who kills with the catalan ♚♝<br />
 🎧 Classic music 🎧<br />
 🎹 I also appreciate a good beat 🎹<br />
-💻 Tech enthusiast<br />
 
 ### Tools
 
