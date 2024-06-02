@@ -10,15 +10,6 @@ I'm Abdelrahman Nasser, a software engineer dedicated to hard work and learning 
 🎧 Classic music 🎧<br />
 🎹 I also appreciate a good beat 🎹<br />
 
-### Tools
-
-![finder](https://user-images.githubusercontent.com/41797034/144759042-b522f7e1-96ec-4116-8277-bb1385569fa7.png)&nbsp;
-![terminal](https://user-images.githubusercontent.com/41797034/144759102-1202a7c7-3acd-432e-ae14-41ff95230788.png)&nbsp;
-![vscode](https://user-images.githubusercontent.com/41797034/144772753-ada1137b-0c11-4329-b340-87e5f2ff19fc.png)&nbsp;
-![postman](https://user-images.githubusercontent.com/41797034/144772799-4a286b51-efab-4797-b54b-c5b9cc6e9640.png)&nbsp;
-![notion](https://user-images.githubusercontent.com/41797034/144772854-02e91fbf-9b96-4ccb-bfb5-b658d377dbba.png)&nbsp;
-![pocket](https://user-images.githubusercontent.com/41797034/144773088-87a63707-0ded-4f76-8aba-68286c35b062.png)&nbsp;
-
 ### Technologies
 
 
