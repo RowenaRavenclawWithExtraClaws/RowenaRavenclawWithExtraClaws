@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Abdelrahman Nasser, a software engineer dedicated to hard work and learning new things to help my team succeed. With strong problem-solving skills and an analytical view, I can break down any problem to its core to make it easy for designing and implementing a solution for it. I am Adaptable and ready to shift my preferences to advance my career.
+Step in carefully, you might not like what u're gonna see :)
 
 ### Hobbies
 
